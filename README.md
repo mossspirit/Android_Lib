@@ -1,1 +1,3 @@
-# 鈴木謙太のSummerInternShip Gitです
+# 鈴木謙太のGit
+
+Unity2017.4.1（なはず）
